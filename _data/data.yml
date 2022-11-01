@@ -44,13 +44,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: 복싱
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: 러닝
           link:
 
 career-profile:
