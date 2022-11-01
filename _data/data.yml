@@ -180,22 +180,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java & Spring
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: SpringBoot
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: JPA
+        level: 90%
 
-      - name: HTML5 & CSS
+      - name: Oracle & Database Expierence
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Python & Django
+        level: 75%
 
-      - name: Sketch & Photoshop
+      - name: Html & JS & CSS
         level: 60%
 
 footer: >
