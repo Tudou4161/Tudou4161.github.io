@@ -1,8 +1,8 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: My Resume
-url: 'https://Tudou4161.github.io'
+title: 지영석의 포트폴리오
+url: "https://Tudou4161.github.io"
 
 #change it according to your repository name
 # disabling since we are using a custom domain
